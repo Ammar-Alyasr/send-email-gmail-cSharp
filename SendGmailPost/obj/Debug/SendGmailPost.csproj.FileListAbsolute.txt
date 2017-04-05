@@ -1,0 +1,9 @@
+C:\Users\yapı123\Desktop\AmmarSAEED\SendGmailPost\SendGmailPost\bin\Debug\SendGmailPost.exe.config
+C:\Users\yapı123\Desktop\AmmarSAEED\SendGmailPost\SendGmailPost\bin\Debug\SendGmailPost.exe
+C:\Users\yapı123\Desktop\AmmarSAEED\SendGmailPost\SendGmailPost\bin\Debug\SendGmailPost.pdb
+C:\Users\yapı123\Desktop\AmmarSAEED\SendGmailPost\SendGmailPost\obj\Debug\SendGmailPost.csprojResolveAssemblyReference.cache
+C:\Users\yapı123\Desktop\AmmarSAEED\SendGmailPost\SendGmailPost\obj\Debug\SendGmailPost.Form1.resources
+C:\Users\yapı123\Desktop\AmmarSAEED\SendGmailPost\SendGmailPost\obj\Debug\SendGmailPost.Properties.Resources.resources
+C:\Users\yapı123\Desktop\AmmarSAEED\SendGmailPost\SendGmailPost\obj\Debug\SendGmailPost.csproj.GenerateResource.Cache
+C:\Users\yapı123\Desktop\AmmarSAEED\SendGmailPost\SendGmailPost\obj\Debug\SendGmailPost.exe
+C:\Users\yapı123\Desktop\AmmarSAEED\SendGmailPost\SendGmailPost\obj\Debug\SendGmailPost.pdb
