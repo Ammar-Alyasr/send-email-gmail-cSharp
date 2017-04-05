@@ -50,8 +50,7 @@ namespace SendGmailPost
                 {
                     message.Subject = subject;
                     message.Body = msj;
-                    //message.Body = @"<h2>oops , Sitenizden birinde Değişiklik olmuştur ...  </h2><p></p><p>Bilgileri Aşağıda yeralan Site Şu Durumla Karşılaşmıştır: '" + Durum + "' </p> <p></p>Site Adi: '" + Adi + "'  <p></p>Site URL: '" + url + "' <p></p>Site Son Durumu: '" + Durum + "' <p></p>Site Son Güncelleme Zamanı '" + Songuncelleme + "' <p></p><p></p><p></p>  <h1>Iyi Kodlamalar)...</h1>";
-
+                   
                     message.IsBodyHtml = true;
                     smtp.Send(message);
 
